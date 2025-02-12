@@ -24,7 +24,7 @@ A simple Java-based API to play the classic "Guess the Number" game using HTTP r
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Shubhi143/GuessANumber
-   cd guess-number-api
+   cd GuessANumber
    ```
 
 2. **Compile the Java File:**

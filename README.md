@@ -81,7 +81,7 @@ A simple Java-based API to play the classic "Guess the Number" game using HTTP r
 ## 📦 Folder Structure
 
 ```
-📦 guess-number-api
+📦 guessANumber
  └── 📄 GuessNumberGame.java
  └── 📄 README.md
 ```
